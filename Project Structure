@@ -1,0 +1,16 @@
+FinRisk360/
+├── data/                # Sample datasets (Kaggle, PaySim, etc.)
+├── notebooks/           # EDA, feature engineering
+├── src/
+│   ├── data_prep.py     # Data loading/preprocessing functions
+│   ├── feature_eng.py   # Feature engineering methods
+│   ├── risk_model.py    # Credit risk model module
+│   ├── fraud_model.py   # Fraud detection module
+│   ├── explainability.py# SHAP/LIME explainer
+│   ├── api/
+│   │   ├── main.py      # FastAPI endpoints for risk/fraud
+│   └── alerts.py        # Alert logic
+├── dashboard/           # Streamlit and Grafana files
+├── requirements.txt     # Dependencies
+├── README.md            # Project documentation
+└── config.py            # Configuration (paths, params)
