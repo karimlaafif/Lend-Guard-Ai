@@ -1,0 +1,12 @@
+scikit-learn
+xgboost
+fastapi
+streamlit
+pandas
+requests
+matplotlib
+shap
+lime
+psycopg2
+mlflow
+kafka-python
