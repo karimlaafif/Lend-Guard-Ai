@@ -166,7 +166,7 @@ graph TB
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/lendguard-ai.git
+git clone https://github.com/karimlaafif/lendguard-ai.git
 cd lendguard-ai
 
 # 2. Install dependencies
@@ -463,7 +463,7 @@ We love contributions! Here's how to get started:
 
 ```bash
 # Fork and clone
-git clone https://github.com/yourusername/lendguard-ai.git
+git clone https://github.com/karimlaafif/lendguard-ai.git
 
 # Create feature branch
 git checkout -b feature/amazing-feature
@@ -620,15 +620,15 @@ For commercial use, enterprise licensing, or white-label solutions, contact:
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/lendguard-ai?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/lendguard-ai?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/lendguard-ai?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/lendguard-ai)
+![GitHub stars](https://img.shields.io/github/stars/karimlaafif/lendguard-ai?style=social)
+![GitHub forks](https://img.shields.io/github/forks/karimlaafif/lendguard-ai?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/karimlaafif/lendguard-ai?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/karimlaafif/lendguard-ai)
 
-![GitHub issues](https://img.shields.io/github/issues/yourusername/lendguard-ai)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/lendguard-ai)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/lendguard-ai)
-![GitHub code size](https://img.shields.io/github/languages/code-size/yourusername/lendguard-ai)
+![GitHub issues](https://img.shields.io/github/issues/karimlaafif/lendguard-ai)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/karimlaafif/lendguard-ai)
+![GitHub last commit](https://img.shields.io/github/last-commit/karimlaafif/lendguard-ai)
+![GitHub code size](https://img.shields.io/github/languages/code-size/karimlaafif/lendguard-ai)
 
 </div>
 
@@ -638,7 +638,7 @@ For commercial use, enterprise licensing, or white-label solutions, contact:
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/lendguard-ai&type=Date)](https://star-history.com/#yourusername/lendguard-ai&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=karimlaafif/lendguard-ai&type=Date)](https://star-history.com/#karimlaafif/lendguard-ai&Date)
 
 </div>
 
